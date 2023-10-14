@@ -1,3 +1,5 @@
+import React from 'react';
+
 import * as Styled from './calendar-header.styled';
 import useCalendar from '../hooks/use-calendar';
 

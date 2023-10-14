@@ -1,3 +1,5 @@
+import React from 'react';
+
 import * as Styled from './calendar-days.styled';
 import { CalendarDate } from '../types';
 
